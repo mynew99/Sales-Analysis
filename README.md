@@ -1,2 +1,14 @@
 # Sales-Analysis
 -in this project firstly we transform our data in power query and change columns with the help use the first Row as Headers next converted currency from Dollar to INR then extract AVG delivery days to order_date to ship_date after totaling a return_orders to use sum and whole number.
+-Total sales 20.2.5 million.
+-Total Quantity 31.66 K.
+-Avg Delivery days-4
+-Return Orders-1078
+-Total_sales by Area
+-Top & profit products
+-Top & Loss products
+-Top & 10 customers
+-Total_sales by segment
+-Total_sales by Districts
+-Market share
+-Sales & growth
