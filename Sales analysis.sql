@@ -2,9 +2,9 @@
   
 SELECT * FROM project.DBO.data1
   
-part_no		         products					  quantity   product_cost	 total_sale    profit         order_date               ship_date               area            district   delivery_days    segment		     customers_name
-01A110002	   ASSY. OIL SEPARATOR	      70	        327			      17150	      62.15	  2022-07-31 00:00:00.000	2022-08-03 00:00:00.000     	Chippili	        tirupati	      4	        consumers	    chenna auto mobiles
-01B020001  	STUD - INJECTOR CLAMP	      55	        327			      18370	     -288.77 	2022-09-08 00:00:00.000	2022-09-14 00:00:00.000	    Pappireddipalle   vijaya wada	      4	         dealers	    dhana lakshmi auto mobiles
+part_no		         products					  quantity     product_cost	      total_sale    profit         order_date               ship_date               area            district   delivery_days    segment		     customers_name
+01A110002	   ASSY. OIL SEPARATOR	      70	          327			          17150	      62.15	  2022-07-31 00:00:00.000	   2022-08-03 00:00:00.000     	Chippili	        tirupati	      4	        consumers	    chenna auto mobiles
+01B020001  	STUD - INJECTOR CLAMP	      55	          327			          18370	     -288.77 	2022-09-08 00:00:00.000	   2022-09-14 00:00:00.000	    Pappireddipalle   vijaya wada	      4	         dealers	    dhana lakshmi auto mobiles
 
   
 SELECT COUNT (*) FROM project.DBO.data1
